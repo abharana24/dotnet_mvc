@@ -315,3 +315,5 @@ C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.App
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddGenreModel.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.PopulateGenre.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMovies.resources
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddDbSetMembershipTypes.resources
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddDbSetGenres.resources
