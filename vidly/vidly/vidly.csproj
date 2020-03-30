@@ -400,6 +400,10 @@
     <Compile Include="Migrations\202003292359440_Add18YearsModel.designer.cs">
       <DependentUpon>202003292359440_Add18YearsModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003300017170_AddValidations.cs" />
+    <Compile Include="Migrations\202003300017170_AddValidations.designer.cs">
+      <DependentUpon>202003300017170_AddValidations.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Genre.cs" />
@@ -527,6 +531,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202003292359440_Add18YearsModel.resx">
       <DependentUpon>202003292359440_Add18YearsModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003300017170_AddValidations.resx">
+      <DependentUpon>202003300017170_AddValidations.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
