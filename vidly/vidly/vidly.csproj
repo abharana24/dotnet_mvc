@@ -396,10 +396,15 @@
     <Compile Include="Migrations\202003292331200_AddDbSetGenres.designer.cs">
       <DependentUpon>202003292331200_AddDbSetGenres.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003292359440_Add18YearsModel.cs" />
+    <Compile Include="Migrations\202003292359440_Add18YearsModel.designer.cs">
+      <DependentUpon>202003292359440_Add18YearsModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\MembershipType.cs" />
+    <Compile Include="Models\Min18YearsIfAMember.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Models\MyDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -456,6 +461,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Migrations\202003292358598_Addlite3\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -518,6 +524,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202003292331200_AddDbSetGenres.resx">
       <DependentUpon>202003292331200_AddDbSetGenres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003292359440_Add18YearsModel.resx">
+      <DependentUpon>202003292359440_Add18YearsModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -317,3 +317,4 @@ C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.Pop
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.PopulateMovies.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddDbSetMembershipTypes.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddDbSetGenres.resources
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.Add18YearsModel.resources
