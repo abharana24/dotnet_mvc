@@ -319,3 +319,5 @@ C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.Add
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddDbSetGenres.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.Add18YearsModel.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddValidations.resources
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddRequiredToMembershipName.resources
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.ErrorsCorrected.resources

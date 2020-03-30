@@ -12,12 +12,10 @@ namespace vidly.Models
         {
             var customer = (Customer)validationContext.ObjectInstance;
 
-            if (customer.MembershipTypeĪd == MembershipType.Unknown ||
-                customer.MembershipTypeĪd == MembershipType.PayAsYouGo)
+            if (customer.MembershipTypeId == MembershipType.Unknown ||
+                customer.MembershipTypeId == MembershipType.PayAsYouGo)
                 return ValidationResult.Success;
-
-            if (customer.BirthDate == null)
-            if (customer.BirthDate == null)
+            
             if (customer.BirthDate == null)
                 return new ValidationResult("Birthdate is required.");
 

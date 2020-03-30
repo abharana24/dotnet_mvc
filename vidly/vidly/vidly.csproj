@@ -404,6 +404,14 @@
     <Compile Include="Migrations\202003300017170_AddValidations.designer.cs">
       <DependentUpon>202003300017170_AddValidations.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003301008457_AddRequiredToMembershipName.cs" />
+    <Compile Include="Migrations\202003301008457_AddRequiredToMembershipName.designer.cs">
+      <DependentUpon>202003301008457_AddRequiredToMembershipName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003301035220_ErrorsCorrected.cs" />
+    <Compile Include="Migrations\202003301035220_ErrorsCorrected.designer.cs">
+      <DependentUpon>202003301035220_ErrorsCorrected.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Genre.cs" />
@@ -534,6 +542,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202003300017170_AddValidations.resx">
       <DependentUpon>202003300017170_AddValidations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003301008457_AddRequiredToMembershipName.resx">
+      <DependentUpon>202003301008457_AddRequiredToMembershipName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003301035220_ErrorsCorrected.resx">
+      <DependentUpon>202003301035220_ErrorsCorrected.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
