@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using Vidly.Dtos;
 using vidly.Models;
+using Vidly.Models;
+using vidly.Dtos;
 
 namespace Vidly.App_Start
 {
@@ -8,15 +10,19 @@ namespace Vidly.App_Start
     {
         public MappingProfile()
         {
+            // Domain to Dto
             Mapper.CreateMap<Customer, CustomerDto>();
-            Mapper.CreateMap<CustomerDto, Customer>();
             Mapper.CreateMap<Movie, MovieDto>();
+            Mapper.CreateMap<MembershipType, MembershipTypeDto>();
+            Mapper.CreateMap<Genre, GenreDto>();
+
+
+            // Dto to Domain
             Mapper.CreateMap<CustomerDto, Customer>()
-              .ForMember(c => c.Id, opt => opt.Ignore());
+                .ForMember(c => c.Id, opt => opt.Ignore());
 
             Mapper.CreateMap<MovieDto, Movie>()
                 .ForMember(c => c.Id, opt => opt.Ignore());
-
         }
     }
 }
