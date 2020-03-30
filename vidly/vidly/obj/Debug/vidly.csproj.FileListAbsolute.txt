@@ -321,3 +321,11 @@ C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.Add
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddValidations.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.AddRequiredToMembershipName.resources
 C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\obj\Debug\vidly.Migrations.ErrorsCorrected.resources
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\AutoMapper.dll
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\System.Web.Http.dll
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\AutoMapper.xml
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\System.Web.Http.xml
+C:\Users\abha.rana\Desktop\dotnet_mvc\vidly\vidly\bin\System.Web.Http.WebHost.xml
